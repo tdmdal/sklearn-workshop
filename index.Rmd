@@ -1,0 +1,14 @@
+---
+title: "Scikit-Learn Python Package"
+---
+
+* [Slides](introtosklearn.pdf)
+* Python Notebooks
+    1. Introduction to Scikit-Learn Python Package (<a href="intro-to-sklearn.ipynb" download="intro-to-sklearn.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sklearn-workshop/blob/master/docs/intro-to-sklearn.ipynb) )
+
+* Other Resources:   
+    1. [Composing Programs](http://composingprograms.com/)
+    2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    3. [Python Style Guide](https://pep8.org/#introduction)
+    
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)

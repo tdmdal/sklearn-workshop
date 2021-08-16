@@ -1,0 +1,15 @@
+name: "TDMDAL Workshop"
+output_dir: "docs"
+include: ["*.pdf"]
+exclude: ["*.pptx"]
+navbar:
+  title: "Pre-Course Workshop: Scikit-Learn Python Package"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+
+  
