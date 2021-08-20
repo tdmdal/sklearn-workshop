@@ -9,5 +9,7 @@ title: "Introduction to Scikit-Learn"
     1. Advertising and Sales (<a href="advertising.csv" download="advertising.csv">Download</a>) 
 * Other Resources:   
     1. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    2. [Learning scikit-learn: Machine Learning in Python ](https://amzn.to/3kQ4Myz/)
+    3. [Hands-On Machine learning with Scikit-Learn and Tensorflow ](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/)
     
 Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
