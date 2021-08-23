@@ -5,6 +5,7 @@ title: "Introduction to Scikit-Learn"
 * [Slides](introtosklearn.pdf)
 * Python Notebooks
     1. Introduction to Scikit-Learn (<a href="intro-to-sklearn.ipynb" download="intro-to-sklearn.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sklearn-workshop/blob/main/docs/intro-to-sklearn.ipynb) )
+    2. Clustering Data with Scikit-Learn (<a href="kmeans-clustering.ipynb" download="kmeans-clustering.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sklearn-workshop/blob/main/docs/kmeans-clustering.ipynb) )
 * Data
     1. Advertising and Sales (<a href="advertising.csv" download="advertising.csv">Download</a>) 
 * Other Resources:   
