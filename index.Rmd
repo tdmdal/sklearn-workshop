@@ -16,7 +16,7 @@ Videos:
     4. [PyCon 2014 Scikit-learn Tutorial](https://www.youtube.com/watch?v=HjAB45qsx_c) by Jake VanderPlas ([Github repo](https://github.com/ogrisel/sklearn_pycon2014))  
 Books:
     5. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-    6. [Learning scikit-learn: Machine Learning in Python ](https://amzn.to/3kQ4Myz/)
+    6. [Learning scikit-learn: Machine Learning in Python ](https://www.amazon.ca/Learning-scikit-learn-Machine-Python/dp/1783281936)
     7. [Hands-On Machine learning with Scikit-Learn and Tensorflow ](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/)
     
 Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
